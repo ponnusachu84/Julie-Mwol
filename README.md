@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ponnusachu84/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AdithyanMS/JulieMwol)
   
 ### The Hard Method
 ```js
